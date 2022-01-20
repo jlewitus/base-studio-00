@@ -7,5 +7,6 @@ public class Message {
 		System.out.println("Hey y'all :)");
 		System.out.println("Hi everyone!!");
 		System.out.println("Hello!");
+		System.out.println("Nice to meet y'all");
 	}
 }
